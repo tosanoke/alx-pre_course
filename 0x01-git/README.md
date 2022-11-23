@@ -1,1 +1,2 @@
-0x01 INSTRUCTIONS
+0x01 Instructions
+changed the header from uppercase to sentence case
